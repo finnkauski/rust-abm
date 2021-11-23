@@ -1,0 +1,6 @@
+person_id,location,productivity,grade,monthly_expenses,monthly_income,savings
+1,London,0.87,SEO,1200,2000,100
+2,London,0.90,HEO,1200,1600,0
+3,London,0.18,G7,1200,3400,10000
+4,Newport,0.55,SEO,800,1800,2000
+5,Newport,0.37,HEO,860,1400,250
